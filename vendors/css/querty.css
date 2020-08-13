@@ -1,0 +1,281 @@
+
+/*to 1200px------*/
+
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        width: 100% !important;
+        padding: 0 2% !important;
+    }
+    .row {
+        padding: 0 2% !important;
+    }
+    .social-links {
+        width: 100% !important;
+        padding: 0 2% !important;
+    }
+    .section-futures {
+        width: 100% !important;
+        padding: 0 2% !important;
+    }
+
+
+}
+
+/*Big tablet------*/
+@media only screen and (max-width: 1000px) {
+   body {
+       font-size: 18px;
+   }
+   .section { padding: 1rem 0;
+
+   }
+   .hero-text-box {
+    width: 100% !important;
+    padding: 0 2% !important;
+}
+.row {
+    padding: 0 2% !important;
+}
+.social-links {
+    width: 100% !important;
+    padding: 0 2% !important;
+}
+.long-copy {
+    width: 80% !important;
+    margin-left: 10% !important;
+    
+} 
+.section-futures {
+    width: 100% !important;
+    padding: 0 2% !important;
+}
+.work-steps div {
+    width: 1.5vw;
+    height: 3vh;
+    text-align: center;
+    padding: 0.05rem;
+    font-size: 0.5rem;
+    margin-right: 0.5rem;
+}
+.work-step {
+    margin-top: 0.1rem !important;
+}
+.mobile-nav-open {
+    display: inline-block !important;
+ }
+
+ .main-nav {
+    float: left !important;
+    margin-top: 0.1rem !important;
+    margin-right: 0.2rem !important;
+ }
+ .main-nav li {
+    display: block !important;
+    color: white !important;
+ }
+ .main-nav li a:link,
+ .main-nav li a:visited {
+ display: block !important;
+ border: 0 !important;
+ margin-top: 0.1rem !important;
+ margin-right: 0.4rem !important;
+ 
+}
+
+.sticky .main-nav {
+    margin-top: 0.1rem !important;
+    margin-right: 0.4rem !important;
+}
+.main-nav {
+    display: none;
+}
+.sticky .logo {
+    display: none;
+}
+.sticky .logo-black { 
+display: block;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background-color: rgb(253, 253, 253);
+    box-shadow: 0 0.1rem 0.1rem rgb(165, 163, 163);
+    z-index: 9999;
+}
+
+}
+/*Small Tablets------*/
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 18px;
+    }
+    .section { padding: 1rem 0;
+ 
+    }
+    .hero-text-box {
+     width: 100% !important;
+     padding: 0 2% !important;
+ }
+ .row {
+     padding: 0 2% !important;
+ }
+ .social-links {
+     width: 100% !important;
+     padding: 0 2% !important;
+ }
+ .long-copy {
+     width: 80% !important;
+     margin-left: 10% !important;
+     
+ } 
+ .section-futures {
+     width: 100% !important;
+     padding: 0 2% !important;
+ }
+ .work-steps div {
+     width: 1.5vw;
+     height: 3vh;
+     text-align: center;
+     padding: 0.05rem;
+     font-size: 0.5rem;
+     margin-right: 0.5rem;
+ }
+ .work-step {
+     margin-top: 0.1rem !important;
+ }
+ .mobile-nav-open {
+     display: inline-block !important;
+  }
+ 
+  .main-nav {
+     float: left !important;
+     margin-top: 0.1rem !important;
+     margin-right: 0.2rem !important;
+  }
+  .main-nav li {
+     display: block !important;
+     color: white !important;
+  }
+  .main-nav li a:link,
+  .main-nav li a:visited {
+  display: block !important;
+  border: 0 !important;
+  margin-top: 0.1rem !important;
+  margin-right: 0.4rem !important;
+  
+ }
+ 
+ .sticky .main-nav {
+     margin-top: 0.1rem !important;
+     margin-right: 0.4rem !important;
+ }
+ .main-nav {
+     display: none;
+ }
+ .sticky .logo {
+     display: none;
+ }
+ .sticky .logo-black { 
+ display: block;
+ }
+ 
+ .sticky {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100vw;
+     background-color: rgb(253, 253, 253);
+     box-shadow: 0 0.1rem 0.1rem rgb(165, 163, 163);
+     z-index: 9999;
+ }
+}
+/*Small phones------*/
+
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 18px;
+    }
+    .section { padding: 1rem 0;
+ 
+    }
+    .hero-text-box {
+     width: 100% !important;
+     padding: 0 2% !important;
+ }
+ .row {
+     padding: 0 2% !important;
+ }
+ .social-links {
+     width: 100% !important;
+     padding: 0 2% !important;
+ }
+ .long-copy {
+     width: 80% !important;
+     margin-left: 10% !important;
+     
+ } 
+ .section-futures {
+     width: 100% !important;
+     padding: 0 2% !important;
+ }
+ .work-steps div {
+     width: 1.5vw;
+     height: 3vh;
+     text-align: center;
+     padding: 0.05rem;
+     font-size: 0.5rem;
+     margin-right: 0.5rem;
+ }
+ .work-step {
+     margin-top: 0.1rem !important;
+ }
+ .mobile-nav-open {
+     display: inline-block !important;
+  }
+ 
+  .main-nav {
+     float: left !important;
+     margin-top: 0.1rem !important;
+     margin-right: 0.2rem !important;
+  }
+  .main-nav li {
+     display: block !important;
+     color: white !important;
+  }
+  .main-nav li a:link,
+  .main-nav li a:visited {
+  display: block !important;
+  border: 0 !important;
+  margin-top: 0.1rem !important;
+  margin-right: 0.4rem !important;
+  
+ }
+ 
+ .sticky .main-nav {
+     margin-top: 0.1rem !important;
+     margin-right: 0.4rem !important;
+ }
+ .main-nav {
+     display: none;
+ }
+ .sticky .logo {
+     display: none;
+ }
+ .sticky .logo-black { 
+ display: block;
+ }
+ 
+ .sticky {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100vw;
+     background-color: rgb(253, 253, 253);
+     box-shadow: 0 0.1rem 0.1rem rgb(165, 163, 163);
+     z-index: 9999;
+ }
+
+}
